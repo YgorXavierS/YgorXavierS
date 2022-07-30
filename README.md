@@ -1,4 +1,4 @@
-### Ola, Me chama YgorXavier
+### Ola, Me chamo YgorXavier
 
 
 - 🔭 Hoje trabalho como help-desk
