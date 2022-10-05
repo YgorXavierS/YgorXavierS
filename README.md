@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho como help-desk
-- 🌱 Estudando C# e Desenvolvimento
+- 🌱 Estudando de Desenvolvimento
 - 📫 Email: ygorxavier77@gmail.com
 - ⛹️‍♀️ Apaixonado por basquete e eterno admirador do unico e supremo MJ
 <div align="center">
